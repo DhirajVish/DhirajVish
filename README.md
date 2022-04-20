@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhirajVish
 - 👀 I’m interested in both frontend as well backend. 
 - 🌱 I’m currently learning Java spring boot and also working on that
-- 💞️ Im very passionate doing coding and learning new technology. Currently Im working as Programmer analyst Trainee.
+- 💞️ I'm very passionate doing coding and learning new technology. Currently I'm working as Programmer analyst Trainee.
 - 📫 How to reach me   Linkedin Profile Url {https://www.linkedin.com/in/dhiraj-vishwakarma-6b468318b/}
 
 <!---
